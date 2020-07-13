@@ -5,10 +5,12 @@ module.exports = {
       name: `Fernando Mercadal`,
       summary: `desarrollador Front end`
     },
-    description: `Blog sobre Accesibilidad web y desarrollo Front end.`,
+    description: `Blog sobre tecnologías Front End y Accesibilidad web.`,
     siteUrl: `https://blogfer.netlify.app/`,
     social: {
-      twitter: `fermercadal`
+      github: ``,
+      linkedin: ``,
+      twitter: `fermercadal`,
     }
   },
   plugins: [
@@ -53,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-168219502-1`,
       },
     },
     `gatsby-plugin-feed`,
@@ -71,8 +73,6 @@ module.exports = {
     },
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    `gatsby-plugin-offline`,
   ],
 }
