@@ -32,7 +32,7 @@ Entonces, si el objetivo es tan noble, por qué nos parece algo tan lejano? Much
 
 * No tenemos tiempo ni presupuesto para mas tareas extras.
 
-El estándar de accesibilidad para contenido web *WCAG*, desarrollado por la comunidad a través de la W3C, puede parecer el lugar indicado para comenzar. Pero puede parecer abrumador al comienzo, aplicar cada uno de sus items y criterios, en cada pantalla que trabajamos. 
+El estándar de accesibilidad para contenido web **[WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)**, desarrollado por la comunidad a través de la **[W3C](https://www.w3.org/)**, puede parecer el lugar indicado para comenzar. Pero puede parecer abrumador al comienzo, aplicar cada uno de sus items y criterios, en cada pantalla que trabajamos. 
 
 Pero existen también pequeños hábitos que podemos incorporar en nuestro trabajo diario, para hacerlo más accesible sin que esto requiera una inversión extra de tiempo o recursos:
 
